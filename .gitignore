@@ -4,4 +4,4 @@ CSS/Sportanet.pdf
 .DS_Store
 Thumbs.db
 
-.vscode/
+.vscode*
